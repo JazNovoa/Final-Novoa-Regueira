@@ -819,7 +819,7 @@ main{
 }
 
 .botonImagen:hover{
-  background-image: url('./images/RectanguloHover.png');
+  background-image: url('/images/RectanguloHover.png');
   background-size: cover;
   color: white;
   width: 300px;
@@ -1409,7 +1409,7 @@ progress {
 }
 
 .volver:hover{
-  background-image: url('./images/hoverStart.png');
+  background-image: url('/images/hoverStart.png');
   background-size: cover;
   border: none;
 }
