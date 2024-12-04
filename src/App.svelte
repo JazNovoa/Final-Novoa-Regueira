@@ -1045,7 +1045,7 @@ main{
 }
 
 .comienza:hover{
-  background-image: url('./images/hoverStart.png');
+  background-image: url('public/images/hoverStart.png');
   background-size: cover;
   border: none;
 }
