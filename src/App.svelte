@@ -798,7 +798,7 @@ main{
 }
 
 .boton:hover{
-  background-image: url('./images/RectanguloHover.png');
+  background-image: url('/images/RectanguloHover.png');
   background-size: cover;
   border: none;
 }
@@ -1045,7 +1045,7 @@ main{
 }
 
 .comienza:hover{
-  background-image: url('public/images/hoverStart.png');
+  background-image: url('/images/hoverStart.png');
   background-size: cover;
   border: none;
 }
