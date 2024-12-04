@@ -1386,7 +1386,7 @@ progress {
 .ubicacionBoton4{
   display: flex;
   position: absolute;
-  margin-left: 600px;
+  margin-left: 680px;
 }
 
 
@@ -1400,8 +1400,8 @@ progress {
   border-radius: 30px;
   border-width: 8px;
   border-style:inset;
-  margin-top: 800px;
-  margin-left: 650px;
+  margin-top: 850px;
+  margin-left: 655px;
   width: 200px;
   height: 60px;
   align-items: center;
@@ -1417,23 +1417,23 @@ progress {
 .creditos1{
   display: flex;
     position: absolute;
-    font-size: 15px;
+    font-size: 16px;
     text-align: center;
     color: white;
     font-family: "Inria Sans", sans-serif;
     margin-top: 1000px;
-    margin-left: 620px;
+    margin-left: 610px;
 }
 
 .creditos2{
   display: flex;
     position: absolute;
-    font-size: 15px;
+    font-size: 16px;
     text-align: center;
     color: white;
     font-family: "Inria Sans", sans-serif;
     margin-top: 1070px;
-    margin-left: 720px;
+    margin-left: 715px;
 }
 
 .vacio2{
